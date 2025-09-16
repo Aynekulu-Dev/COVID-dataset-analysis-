@@ -1,9 +1,12 @@
-# Python
+# Ignore virtual environment
+.venv/
+
+# Ignore large dataset
+data/owid-covid-data.csv
+
+# Python cache files
 __pycache__/
 *.pyc
 
-# Virtual environment
-.venv/
-
-# Optional
+# Optional Jupyter checkpoints
 .ipynb_checkpoints/
