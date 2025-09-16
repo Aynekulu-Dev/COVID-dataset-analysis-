@@ -25,6 +25,21 @@
 
 ---
 
+## Output Graphs
+
+### Global Trends
+![Global Trends](plots/global_trends.png)
+
+### Top 10 Countries by Total Cases
+![Top 10 Cases](plots/top10_cases.png)
+
+### Vaccination Progress
+![Top 10 Vaccinated](plots/top10_vaccinated.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](plots/correlation_heatmap.png)
+
+
 ## How to Run
 1. Activate your virtual environment:
 
