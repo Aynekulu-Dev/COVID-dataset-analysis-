@@ -1,4 +1,4 @@
-# COVID-19 Dataset Analysis (Data Science Part)
+# COVID-19 Dataset Analysis
 
 ## Project Overview
 - **Goal:** Clean, explore, and visualize COVID-19 data.
